@@ -18,7 +18,10 @@ console.log(`My name is ${myName} maybe I'm ${myAge} years old. Maybe I'm not. G
 let num1;
 let num2;
 
-num1 = 3;
+num1 = 4;
 num2 = 2; 
 
 console.log(num1 + num2);
+console.log(num1 - num2);
+console.log(num1 * num2);
+console.log(num1 / num2);
